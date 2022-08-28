@@ -431,6 +431,10 @@ section {
     border: 1px solid var(--accent-color);
     color: var(--accent-color);
 }
+.logo:hover,
+.logo:focus {
+    fill: var(--accent-color);
+}
 
 /*footer*/
 
